@@ -1,6 +1,6 @@
 # Awesome-Flutter-Templates
 
-A Huge Collection of Flutter App templates.
+A Collection of Flutter Application templates.
 
 <a href="https://flutter.dev/">Flutter</a> is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
