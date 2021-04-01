@@ -18,3 +18,8 @@ A Collection of Flutter Application templates.
 
 ## <a href='https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI'>Fryo - Grocery Shopping App template kit</a>
 <img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/1.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/2.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/3.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/4.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/5.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/6.png" width="300">
+
+## <a href='https://github.com/urmilshroff/dashboard_reborn'>Dashboard Reborn✨</a>
+<img src="https://raw.githubusercontent.com/urmilshroff/dashboard_reborn/master/branding/gifs/1.gif" width="300"><img src="https://raw.githubusercontent.com/urmilshroff/dashboard_reborn/master/branding/gifs/2.gif" width="300">
+<img src="https://raw.githubusercontent.com/urmilshroff/dashboard_reborn/master/branding/gifs/3.gif" width="300">
+
