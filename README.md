@@ -16,3 +16,5 @@ A Collection of Flutter Application templates.
 ## <a href='https://github.com/robertodevs/flutter_ecommerce_template'>Shope - Free Flutter eCommerce Template</a>
 <img src='https://raw.githubusercontent.com/robertodevs/flutter_ecommerce_template/master/assets/promotional/Mockup%20Intro.png'>
 
+## <a href='https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI'>Fryo - Grocery Shopping App template kit</a>
+<img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/1.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/2.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/3.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/4.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/5.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/6.png" width="300">
