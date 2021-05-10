@@ -1,4 +1,4 @@
-# <a href="https://lkrjangid1.github.io/Awesome-Flutter-Templates/">Awesome Flutter Templates</a>
+# <a href="https://lkrjangid1.github.io/Awesome-Flutter-Templates/">Awesome Flutter Templates</a> ![flutter](https://badgen.net/pub/flutter-platform/xml) ![MIT](https://img.shields.io/badge/license-MIT-green)
 
 A Collection of Flutter Application templates.
 
@@ -69,4 +69,33 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/TweetDetail/screenshot_7.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_9.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_10.jpg?raw=true)|![](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/screenshots/Settings/screenshot_81.jpg?raw=true)|
 
+## <a href='https://github.com/JideGuru/FlutterEbookApp'>📖📖 Flutter eBook App</a>
 
+| Light                             | Dark                              |
+| --------------------------------- | --------------------------------- |
+| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/1.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/2.png" width="400">  |
+| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/3.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/4.png" width="400">  |
+| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/5.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/6.png" width="400">  |
+| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/7.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/8.png" width="400">  |
+| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/9.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/10.png" width="400"> |
+| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/11.png" width="400"> | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/12.png" width="400"> |
+| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/13.png" width="400"> | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/14.png" width="400"> |
+
+## <a href='https://github.com/bimsina/FlutterUITemplates'>Flutter UI Templates</a>
+| | | |
+| --- | ---| ---|
+| ![tia698668123](https://user-images.githubusercontent.com/29589003/66491481-7fd1d300-ead2-11e9-835b-e9722c558c28.png) | ![tia-1030263456](https://user-images.githubusercontent.com/29589003/66491482-7fd1d300-ead2-11e9-9ddf-47eeae09b712.png)  | ![tia-1873602172](https://user-images.githubusercontent.com/29589003/66491479-7f393c80-ead2-11e9-8d83-e6eaf7cacc7a.png)  |
+| ![tia1162841216](https://user-images.githubusercontent.com/29589003/66491484-806a6980-ead2-11e9-9b34-d2069f4dfbb5.png)  | | |
+
+## <a href='https://github.com/naveenjujaray/DeveloperFolio'>DeveloperFolio</a>
+### Dark Mode
+![Darkmode](https://raw.githubusercontent.com/naveenjujaray/DeveloperFolio/master/gif/dark.gif)
+
+### Desktop View
+![Desktop](https://raw.githubusercontent.com/naveenjujaray/DeveloperFolio/master/gif/desk.gif)
+
+### Tablet View
+![Tablet](https://raw.githubusercontent.com/naveenjujaray/DeveloperFolio/master/gif/tab.gif)
+
+### Mobile View
+![Mobile](https://raw.githubusercontent.com/naveenjujaray/DeveloperFolio/master/gif/mob.gif)
