@@ -1,4 +1,4 @@
-# Awesome-Flutter-Templates
+# <a href="https://lkrjangid1.github.io/Awesome-Flutter-Templates/">Awesome Flutter Templates</a>
 
 A Collection of Flutter Application templates.
 
