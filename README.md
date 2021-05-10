@@ -73,13 +73,13 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 
 | Light                             | Dark                              |
 | --------------------------------- | --------------------------------- |
-| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/1.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/2.png" width="400">  |
-| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/3.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/4.png" width="400">  |
-| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/5.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/6.png" width="400">  |
-| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/7.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/8.png" width="400">  |
-| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/9.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/10.png" width="400"> |
-| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/11.png" width="400"> | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/12.png" width="400"> |
-| <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/13.png" width="400"> | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/14.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/1.png" width="400">  | <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/2.png" width="400">  |
+| <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/3.png" width="400">  | <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/4.png" width="400">  |
+| <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/5.png" width="400">  | <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/6.png" width="400">  |
+| <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/7.png" width="400">  | <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/8.png" width="400">  |
+| <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/9.png" width="400">  | <img src="https://github.com/JideGuru/FlutterEbookApp/master/ss/10.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/11.png" width="400"> | <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/12.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/13.png" width="400"> | <img src="https://raw.githubusercontent.com/JideGuru/FlutterEbookApp/master/ss/14.png" width="400"> |
 
 ## <a href='https://github.com/bimsina/FlutterUITemplates'>Flutter UI Templates</a>
 | | | |
