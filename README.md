@@ -102,3 +102,7 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 
 ### Mobile View
 ![Mobile](https://raw.githubusercontent.com/naveenjujaray/DeveloperFolio/master/gif/mob.gif)
+
+
+## <a href='https://github.com/Lastmentor/Flutter_SmartHome_Page_UI'>DeveloperFolio</a>
+![Darkmode](https://user-images.githubusercontent.com/23746859/61721012-7b6a0980-ad70-11e9-827b-20956a9dc559.png)
