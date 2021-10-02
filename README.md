@@ -115,3 +115,24 @@ Create Account Screen | Login Screen | Success Screen
 ## <a href='https://github.com/xuexiangjys/flutter_template'>flutter_template</a>
 ![flutter_template.gif](https://ss.im5i.com/2021/06/14/62BOO.gif)
 [![Stargazers over time](https://starchart.cc/xuexiangjys/flutter_template.svg)](https://starchart.cc/xuexiangjys/flutter_template)
+
+## <a href='https://github.com/ha-yi/flutter_showcases_bdd_mataram'>flutter_showcases_bdd_mataram</a>
+
+
+BukanLapak Screen
+
+<img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/bl.png" alt="drawing" width="200"/>
+
+Simple Animated parallax scrolling apps
+
+| <img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/gp1.png" alt="drawing" width="200"/>
+| <img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/gp2.png" alt="drawing" width="200"/>
+| <img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/gp3.png" alt="drawing" width="200"/>
+| 
+
+Gojek UI Clone
+
+| <img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/rj_splash.png" alt="drawing" width="200"/>
+| <img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/rj_login.png" alt="drawing" width="200"/>
+| <img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/rj_phone.png" alt="drawing" width="200"/>
+| <img src="https://github.com/ha-yi/flutter_showcases_bdd_mataram/blob/master/images/rj_home.png" alt="drawing" width="200"/>
