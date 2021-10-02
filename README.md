@@ -106,3 +106,14 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 
 ## <a href='https://github.com/Lastmentor/Flutter_SmartHome_Page_UI'>DeveloperFolio</a>
 ![Darkmode](https://user-images.githubusercontent.com/23746859/61721012-7b6a0980-ad70-11e9-827b-20956a9dc559.png)
+
+
+## <a href='https://github.com/xuexiangjys/flutter_template'>flutter_template</a>
+
+## 效果
+
+![flutter_template.gif](https://ss.im5i.com/2021/06/14/62BOO.gif)
+
+## Star趋势图
+
+[![Stargazers over time](https://starchart.cc/xuexiangjys/flutter_template.svg)](https://starchart.cc/xuexiangjys/flutter_template)
