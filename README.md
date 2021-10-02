@@ -107,13 +107,11 @@ Content Prefrences Page      |  Display Setting Page    |  Data Settings Page   
 ## <a href='https://github.com/Lastmentor/Flutter_SmartHome_Page_UI'>DeveloperFolio</a>
 ![Darkmode](https://user-images.githubusercontent.com/23746859/61721012-7b6a0980-ad70-11e9-827b-20956a9dc559.png)
 
+## <a href='https://github.com/alistairholmes/flutter_login_kit'>Flutter_login_kit</a>
+Create Account Screen | Login Screen | Success Screen
+------------ | -------------|--------------
+![screener_1587918535672](https://user-images.githubusercontent.com/22801227/80344896-9706c100-8868-11ea-8b6a-55565d202db3.png) | ![screener_1587918517481](https://user-images.githubusercontent.com/22801227/80344906-9a01b180-8868-11ea-9139-96fa430ccdbc.png) | ![screener_1587972238849](https://user-images.githubusercontent.com/22801227/80345075-da612f80-8868-11ea-8fa1-d415d82ead1e.png)
 
 ## <a href='https://github.com/xuexiangjys/flutter_template'>flutter_template</a>
-
-## 效果
-
 ![flutter_template.gif](https://ss.im5i.com/2021/06/14/62BOO.gif)
-
-## Star趋势图
-
 [![Stargazers over time](https://starchart.cc/xuexiangjys/flutter_template.svg)](https://starchart.cc/xuexiangjys/flutter_template)
