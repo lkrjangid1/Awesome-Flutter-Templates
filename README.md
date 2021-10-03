@@ -16,6 +16,18 @@ A Collection of Flutter Application templates.
 ## <a href='https://github.com/subhamayd2/day_night_time_picker'>Day Night Time Picker</a>
 <img src="https://raw.githubusercontent.com/subhamayd2/day_night_time_picker/master/example.gif">
 
+## <a href='https://github.com/imaNNeoFighT/fl_chart'>FL Chart</a>
+
+|LineChart	|BarChart		|PieChart		|
+|:------------:|:------------:|:-------------:|
+|	[![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/line_chart/line_chart_sample_1.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/line_chart.md#sample-1-source-code) [![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/line_chart/line_chart_sample_2.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/line_chart.md#sample-2-source-code)  |	[![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/bar_chart/bar_chart_sample_1.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/bar_chart.md#sample-1-source-code) [![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/bar_chart/bar_chart_sample_2.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/bar_chart.md#sample-2-source-code)  | [![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/pie_chart/pie_chart_sample_1.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/pie_chart.md#sample-1-source-code) [![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/pie_chart/pie_chart_sample_2.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/pie_chart.md#sample-2-source-code) |
+|[Read More](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/line_chart.md)|[Read More](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/bar_chart.md)|[Read More](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/pie_chart.md)|
+
+|ScatterChart	|RadarChart| Coming Soon|
+|:------------:|:------------:|:-------------:|
+|	[![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/scatter_chart/scatter_chart_sample_1.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/scatter_chart.md#sample-1-source-code) [![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/scatter_chart/scatter_chart_sample_2.gif)](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/scatter_chart.md#sample-2-source-code)  |	![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/radar_chart/radar_chart_sample_1.jpg)  ![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/blank.jpg)|![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/blank.jpg) ![](https://github.com/imaNNeoFighT/fl_chart/raw/master/repo_files/images/blank.jpg)|
+|[Read More](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/scatter_chart.md)|[Read More](https://github.com/imaNNeoFighT/fl_chart/blob/master/repo_files/documentations/radar_chart.md)||
+
 ## <a href='https://github.com/robertodevs/flutter_ecommerce_template'>Shope - Free Flutter eCommerce Template</a>
 <img src='https://raw.githubusercontent.com/robertodevs/flutter_ecommerce_template/master/assets/promotional/Mockup%20Intro.png'>
 
