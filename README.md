@@ -166,5 +166,8 @@ Gojek UI Clone
 |<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/11.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/12.png" width="400">|
 |<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/13.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/14.png" width="400">|
 
+## <a href='https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard'>Responsive Admin Panel or Dashboard - Flutter UI</a>
+![Preview](https://raw.githubusercontent.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/master/gif.gif)
 
+![App UI](https://raw.githubusercontent.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/master/ui.png)
 
