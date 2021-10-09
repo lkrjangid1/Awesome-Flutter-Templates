@@ -171,3 +171,31 @@ Gojek UI Clone
 
 ![App UI](https://raw.githubusercontent.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/master/ui.png)
 
+## <a href='https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter'>GZXTaoBaoAppFlutter</a>
+## 首页 搜索宝贝
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/首页.gif" width="414" hegiht="736" align=center /><img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索宝贝.gif" width="414" hegiht="736" align=center />
+
+## 微淘 消息
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/微淘.gif" width="414" hegiht="736" align=center /><img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/消息.gif" width="414" hegiht="736" align=center />
+
+## 购物车 我的淘宝
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/购物车.gif" width="414" hegiht="736" align=center /><img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/我的淘宝.gif" width="414" hegiht="736" align=center />
+
+# 示例图片
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/首页.PNG" width="414" hegiht="736" align=center />  <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/首页1.PNG" width="414" hegiht="736" align=center />
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索结果List.PNG" width="414" hegiht="736" align=center /><img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索结果Grid.PNG" width="414" hegiht="736" align=center />
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索结果筛选.PNG" width="414" hegiht="736" align=center /> <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索结果筛选1.PNG" width="414" hegiht="736" align=center />
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/微淘.PNG" width="414" hegiht="736" align=center /> <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/微淘1.PNG" width="414" hegiht="736" align=center />
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/消息.PNG" width="414" hegiht="736" align=center /> <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/聊天.PNG" width="414" hegiht="736" align=center />
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/购物车.PNG" width="414" hegiht="736" align=center /> <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/我的淘宝.PNG" width="414" hegiht="736" align=center />
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/我的淘宝1.PNG" width="414" hegiht="736" align=center /> <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索.PNG" width="414" hegiht="736" align=center />
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索关键字列表.PNG" width="414" hegiht="736" align=center />
+
+
