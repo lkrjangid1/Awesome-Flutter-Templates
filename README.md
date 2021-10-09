@@ -152,3 +152,19 @@ Gojek UI Clone
 
 ## <a href='https://github.com/payam-zahedi/flutter_doto2_heroes'>flutter_doto2_heroes</a>
 <img src="https://raw.githubusercontent.com/payam-zahedi/flutter_doto2_heroes/master/assets/image/demo/screen_shot1.png" width="24%"> <img src="https://raw.githubusercontent.com/payam-zahedi/flutter_doto2_heroes/master/assets/image/demo/screen_shot2.png" width="24%"> <img src="https://raw.githubusercontent.com/payam-zahedi/flutter_doto2_heroes/master/assets/image/demo/screen_shot3.png" width="24%"> <img src="https://raw.githubusercontent.com/payam-zahedi/flutter_doto2_heroes/master/assets/image/demo/screen_shot4.png" width="24%">
+
+## <a href='https://github.com/JideGuru/FlutterSocialAppUIKit'>🔥🔥 Flutter Social App</a>
+<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/1.png"/>
+<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/2.png"/>
+
+| Light| Dark|
+|------|-------|
+|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/3.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/4.png" width="400">|
+|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/5.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/6.png" width="400">|
+|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/7.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/8.png" width="400">|
+|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/9.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/10.png" width="400">|
+|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/11.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/12.png" width="400">|
+|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/13.png" width="400">|<img src="https://raw.githubusercontent.com/JideGuru/FlutterSocialAppUIKit/master/ss/14.png" width="400">|
+
+
+
