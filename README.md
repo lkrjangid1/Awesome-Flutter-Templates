@@ -204,3 +204,7 @@ Gojek UI Clone
 <img src="https://github.com/mrezkys/hungry/blob/main/demo/banner.jpg" width="auto" height="auto" >
 <img src="https://github.com/mrezkys/hungry/blob/main/demo/shot.jpg" width="auto" height="auto" >
 <img src="https://github.com/mrezkys/hungry/blob/main/demo/details.jpg" width="auto" height="auto" >
+
+## <a href='https://github.com/vijayinyoutube/ui_screen'>ui_screen</a>
+<img src="https://user-images.githubusercontent.com/58719230/116808326-cd4ede80-ab55-11eb-9696-eead0e9a0db8.png" width="100%">
+<img src="https://user-images.githubusercontent.com/58719230/116808327-ce800b80-ab55-11eb-96be-d34b5b878f68.png" > 
