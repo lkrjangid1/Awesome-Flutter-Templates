@@ -1,4 +1,4 @@
-# <a href="https://lkrjangid1.github.io/Awesome-Flutter-Templates/">Awesome Flutter Templates</a> ![flutter](https://badgen.net/pub/flutter-platform/xml) ![MIT](https://img.shields.io/badge/license-MIT-green)
+# <a href="https://lkrjangid1.github.io/Awesome-Flutter-Templates/">Awesome Flutter Templates</a> ![Awesome-Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square) ![flutter](https://badgen.net/pub/flutter-platform/xml) ![MIT](https://img.shields.io/badge/license-MIT-green)
 
 A Collection of Flutter Application templates.
 
