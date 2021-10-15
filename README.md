@@ -8,6 +8,12 @@ A Collection of Flutter Application templates.
 
 <p align=center>----------------------------##------------------------##------------------------------</p>
 
+# Pages
+- <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates'>Page1</a>
+- <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page2.md'>Page2</a>
+
+
+<hr/>
 
 ## <a href='https://github.com/mitesh77/Best-Flutter-UI-Templates'>Best Flutter UI Templates</a>
 
@@ -199,24 +205,4 @@ Gojek UI Clone
 <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索关键字列表.PNG" width="414" hegiht="736" align=center />
 
 
-## <a href='https://github.com/mrezkys/hungry'>Hungry</a>
-# Hungry
-<img src="https://github.com/mrezkys/hungry/blob/main/demo/banner.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/hungry/blob/main/demo/shot.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/hungry/blob/main/demo/details.jpg" width="auto" height="auto" >
-
-## <a href='https://github.com/vijayinyoutube/ui_screen'>ui_screen</a>
-<img src="https://user-images.githubusercontent.com/58719230/116808326-cd4ede80-ab55-11eb-9696-eead0e9a0db8.png" width="100%">
-<img src="https://user-images.githubusercontent.com/58719230/116808327-ce800b80-ab55-11eb-96be-d34b5b878f68.png" > 
-
-## <a href='https://github.com/martinoyovo/flutter-banking-app'> Flutter Banking App 🔥</a>
-
-Mobile Banking App inspired by [Twinkle Creative](https://dribbble.com/shots/16369224-Banking-Mobile-App).
-
-<p float="left">
-  <img src="https://github.com/martinoyovo/flutter-banking-app/blob/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-09-13%20at%2019.28.58.png" width="190" />
-  <img src="https://raw.githubusercontent.com/martinoyovo/flutter-banking-app/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-10-11%20at%2019.09.37.png" width="190" />
-    <img src="https://raw.githubusercontent.com/martinoyovo/flutter-banking-app/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-10-11%20at%2019.09.48.png" width="190" />
-    <img src="https://raw.githubusercontent.com/martinoyovo/flutter-banking-app/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-10-11%20at%2019.09.30.png" width="190" />
-      <img src="https://raw.githubusercontent.com/martinoyovo/flutter-banking-app/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-10-11%20at%2019.09.52.png" width="190" />
-</p>
+<a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page2.md'>Go to Page2 --></a>
