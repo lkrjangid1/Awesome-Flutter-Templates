@@ -52,9 +52,11 @@
   
   
 ## <a href='https://github.com/thenifemi/PetShop'>PetShop</a>  
-  
 <img align="left" src="https://raw.githubusercontent.com/thenifemi/PetShop/master/assets/images/PetShop-removebg.png" width="250px" >
 
+![image](https://user-images.githubusercontent.com/64513385/137749038-0577af4a-c4c0-4933-9a64-6ef2421ae15f.png)
+  
+  
 
 <p>
     <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/intro.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
