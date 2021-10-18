@@ -77,7 +77,118 @@ Mobile Banking App inspired by [Twinkle Creative](https://dribbble.com/shots/163
       <img src="https://raw.githubusercontent.com/martinoyovo/flutter-banking-app/main/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202021-10-11%20at%2019.09.52.png" width="190" />
 </p>
   
+## <a href='https://github.com/Hash-Studios/e-learning-app/'>E-Learning</a>  
+  
+<img alt='E-Learn UI Mockup' src='https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Frame 1.png'/>
+  
+**Screens**
 
+| ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Home.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Calendar.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Home/Overlay.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Videos.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Stats/Local.png) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Explore     |    Planner    |    Overlay     |     Videos       |     Leaderboard     |
+
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Stats/Global.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/NavDrawer.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Home/Search.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Home/Search/Results.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Profile.png) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Global Leaderboard    |    NavDrawer    |    Search     |     Search Results      |     Profile     |
+
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Onboarding/1.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Onboarding/2.png)| ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Onboarding/3.png)       | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Subjects/Close.png)  | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Subjects/Open.png)|
+| :-------------:  | :-------------: | :-------------:       | :-------------:  | :-------------: |
+|  Onboarding 1    |    Onboarding 2       |  Sign-in Screen    | Subjects Close   | Subjects Close  |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Video/Open.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Forum.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Help.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Settings.png) | ![](https://raw.githubusercontent.com/Hash-Studios/e-learning-app/master/demo/Screen/Test.png) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Video Info    |    Forum    |    Help     |     Settings       |     Test     |
+
+  
+ ## <a href='https://github.com/Hash-Studios/Prism/'> Prism</a> 
+  <img alt='Prism UI Mockup' src='https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/Prism_Mockup.png'/>
+  
+**Screens**
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/2.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/3.jpg) | ![](demo/4.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/5.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/6.jpg) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Home     |    Search WallHaven   |    Search Pexels     |     Trending       |     Color Based     |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/7.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/8.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/9.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/11.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/12.jpg) |
+| :-------------:  | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|    Favourites    |    Downloads     |     Setups       |    Setups Info    |     Profile     |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/13.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/14.jpg)| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/16.jpg)       | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/17.jpg)  | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/18.jpg) |
+| :-------------:  | :-------------: | :-------------:       | :-------------:  | :-------------:  |
+|  Upload Popup    |    Edit Wallpaper       |  Uploading Wallpaper    | Uploader's Profile   |     Scroll to Top Button       |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/19.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/20.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/21.jpg)| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/23.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/25.jpg) |
+| :-------------: | :-------------: | :-------------: | :-------------:  | :-------------:  |
+|     Categories     |     Collections    | Collection (Illustrations)  |    Setup Guidelines     |     Setup Upload       |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/36.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/38.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/27.jpg)       | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/30.jpg)  | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/29.jpg)|
+| :-------------:  | :-------------:  | :-------------:       | :-------------:  | :-------------: |
+|     About Page       |     Premium Page    |  Wallpaper Display    | Clock for testing   | Wallpaper Info  |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/33.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/34.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/35.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/37.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/22.jpg) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Splash Screen    |    Quick Action Menu    |    Settings     |     Themes      |     Notifications    |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/47.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/45.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/46.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/48.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/51.jpg) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Followers Feed    |    Theme Preference    |    Notification Settings     |     Onboarding      |     Top Followers    |
+
+**Themes**
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/39.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/40.jpg)| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/41.jpg)| ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/42.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/Prism/master/demo/43.jpg)|
+| :-------------:  | :-------------: | :-------------: | :-------------:  | :-------------: |
+|  Frosty White  |Coffee|  AMOLED    |      Rose   |      Cotton  |
+
+ ## <a href='https://github.com/Hash-Studios/ggsipu_notice/'> GGSIPU Noticeboard App</a> 
+  ![ggsipu_notice UI Mockup](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/GGSIPU_Mockup.jpg)
+  ### Dark Theme
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/1.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/2.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/3.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/4.jpg) |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+|   Latest        |    Priority     |  Notice Actions |      About      |
+
+### Light Theme
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/5.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/6.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/7.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/ggsipu_notice/master/demo/8.jpg) |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+|   Latest        |    Priority     |  Notice Actions |      About      |
+  
+ ## <a href='https://github.com/Hash-Studios/flutter-notes-app/'> Tizeno</a>   
+  ![Tizeno UI Mockup](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/Tizeno_Mockup.jpg)
+  
+  **Screens**
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/1.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/4.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/12.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/15.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/18.jpg) |
+| :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
+|     Main Screen     |    Main List Screen    |    New Note    |     New Photo Note       |     Edit note     |
+
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/3.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/7.jpg)| ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/16.jpg)| ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/11.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/flutter-notes-app/master/demo/19.jpg)|
+| :-------------:  | :-------------: | :-------------: | :-------------:  | :-------------: |
+|  Starred Notes  |Archived Notes|  Delete All    |      About   |      Share  |
+  
+## <a href='https://github.com/Hash-Studios/healthapp/'> Curist - An AI Healthcare App</a> 
+  
+  ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/curistmockup.png)
+
+ Screenshots
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/9.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/14.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/1.jpg) |
+| :-------------: | :-------------:  | :-------------:  |
+|     Home     |    Main Drawer    |    Assistant    |
+
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/12.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/4.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/5.jpg) |
+| :-------------:  | :-------------:  | :-------------:  |
+|     Exercises       |     Medicines     |     Activity     |
+
+| ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/11.jpg) | ![](https://raw.githubusercontent.com/Hash-Studios/healthapp/master/demo/13.jpg) |
+| :-------------:  | :-------------:  |
+|     Add Medicines      |     Update Details     |
+  
+## <a href='https://github.com/Hash-Studios/ggsipu_notice/'> GGSIPU Noticeboard App</a>  
   
 <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates'><-- Go back Page1</a>
 
