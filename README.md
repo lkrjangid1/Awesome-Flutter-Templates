@@ -21,6 +21,7 @@ A Collection of Flutter Application templates.
 # Pages
 - <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates'>Page1</a>
 - <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page2.md'>Page2</a>
+- <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page3.md'>Page3</a>
 
 <hr/>
 
