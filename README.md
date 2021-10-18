@@ -1,6 +1,6 @@
 # <a href="https://lkrjangid1.github.io/Awesome-Flutter-Templates/">Awesome Flutter Templates</a> 
 
-![Awesome-Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square) ![flutter](https://badgen.net/pub/flutter-platform/xml) ![MIT](https://img.shields.io/badge/license-MIT-green) ![frocks](https://badgen.net/github/forks/lkrjangid1/Awesome-Flutter-Templates/) ![contributors](https://badgen.net/github/contributors/lkrjangid1/Awesome-Flutter-Templates/) ![stars](https://badgen.net/github/stars/lkrjangid1/Awesome-Flutter-Templates/) ![aft](https://badgen.net/badge/Flutter/Awesome-Flutter-Templates/pink)
+![Awesome-Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square) ![flutter](https://badgen.net/pub/flutter-platform/xml) ![MIT](https://img.shields.io/badge/license-MIT-green) ![frocks](https://badgen.net/github/forks/lkrjangid1/Awesome-Flutter-Templates/) ![contributors](https://badgen.net/github/contributors/lkrjangid1/Awesome-Flutter-Templates/) ![stars](https://badgen.net/github/stars/lkrjangid1/Awesome-Flutter-Templates/) ![Awesome-Flutter-Templates](https://badgen.net/badge/Flutter/Awesome-Flutter-Template/pink)
 
 A Collection of Flutter Application templates.
 
@@ -8,12 +8,19 @@ A Collection of Flutter Application templates.
 
 <img src="https://user-images.githubusercontent.com/64513385/113325213-c144e680-9335-11eb-9280-37ae5d915db2.png" align="center" width="950">
 
-<p align=center>----------------------------##------------------------##------------------------------</p>
+
+## Add this badge in your repo <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/'>![Awesome-Flutter-Templates](https://badgen.net/badge/Flutter/Awesome-Flutter-Template/pink)</a>
+
+```
+
+<a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/'>![Awesome-Flutter-Templates](https://badgen.net/badge/Flutter/Awesome-Flutter-Template/pink)</a>
+
+```
+
 
 # Pages
 - <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates'>Page1</a>
 - <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page2.md'>Page2</a>
-
 
 <hr/>
 
