@@ -98,5 +98,48 @@
 | :---------------------------------: | :------------------------------------: | :---------------------------------: |
 |         Change Email Screen         |         Change Password Screen         |         Change Phone Screen         |
   
+
+## <a href='https://github.com/himanshusharma89/relic_bazaar'>relic_bazaar</a>   
+![splash](https://user-images.githubusercontent.com/64513385/137746515-6c853a7f-2abc-40b2-9c29-6b3f1b615b0a.gif)
+
+![image](https://user-images.githubusercontent.com/64513385/137746332-a9f1e206-104f-4eda-8da0-4822d6ee7c78.png)
+
+ 
+## <a href='https://github.com/AhmedLSayed9/shopzler'>shopzler</a>     
+  <img src="https://imgur.com/WIahqtW.gif">
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/70890146/134294381-389c3eb9-9d3b-4f31-b45d-d0577649401c.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134295762-e32997ef-ba57-4384-8f55-9ab5d7297c22.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134296666-b37ae0b9-507c-4552-a50f-a43b3d2f16f0.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134517685-c2af44b2-ec5b-4c43-9c5f-30486a6718ff.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134517658-465c3d08-8ad1-4dd4-a03a-ae08478c716d.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134296116-d7097926-9fb6-4d61-a9d5-10213f9add36.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134296958-57258c0c-9df1-445c-ba71-4fcc586095f5.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134297033-344e49d1-e199-4af6-b95c-4857018ccedd.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134297044-7f4f5a8a-b8f0-4e10-8d93-4a6846d8c05b.jpg" alt="Image" width="300"/>
+    <img src="https://user-images.githubusercontent.com/70890146/134297056-3fabc3d5-5c52-48e8-91ec-e36df6462462.jpg" alt="Image" width="300"/>
+</p>
+
+ ## <a href='https://github.com/Hritik-Chaurasia/EasyShop'>EasyShop</a> 
+  ![image](https://user-images.githubusercontent.com/64513385/137747296-5146ab3d-4d08-493c-a60d-09323326165e.png)
+  
+## <a href='https://github.com/JyotinderSingh/ShopLyft'>ShopLyft</a> 
+  ![image](https://user-images.githubusercontent.com/64513385/137747657-5a741444-273c-4edd-afb0-d67316dba158.png)
+
+## <a href='https://github.com/khp53/Shopper-E-Commerce-App'>Shopper!</a> 
+  <p align="center">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss10.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss11.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss1.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss2.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss3.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss4.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss5.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss6.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss7.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss8.jpg" width="350">
+  <img src="https://github.com/khp53/Shopper-E-Commerce-App/blob/master/assets/ss9.jpg" width="350">
+</p>
   
 <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page2.md'><-- Go to Page2</a>
