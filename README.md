@@ -1,6 +1,7 @@
 # <a href="https://lkrjangid1.github.io/Awesome-Flutter-Templates/">Awesome Flutter Templates</a> 
 
-![flutter](https://badgen.net/pub/flutter-platform/xml) ![MIT](https://img.shields.io/badge/license-MIT-green)  ![frocks](https://badgen.net/github/forks/lkrjangid1/Awesome-Flutter-Templates/)  ![contributors](https://badgen.net/github/contributors/lkrjangid1/Awesome-Flutter-Templates/)  ![stars](https://badgen.net/github/stars/lkrjangid1/Awesome-Flutter-Templates/) ![Awesome-Flutter-Templates](https://badgen.net/badge/Flutter/Awesome-Flutter-Template/pink)
+![flutter](https://badgen.net/pub/flutter-platform/xml) ![MIT](https://img.shields.io/badge/license-MIT-green)  ![frocks](https://badgen.net/github/forks/lkrjangid1/Awesome-Flutter-Templates/)  ![contributors](https://badgen.net/github/contributors/lkrjangid1/Awesome-Flutter-Templates/)  ![stars](https://badgen.net/github/stars/lkrjangid1/Awesome-Flutter-Templates/) ![Awesome-Flutter-Templates](https://badgen.net/badge/Flutter/Awesome-Flutter-Template/pink) 
+<a href='https://devlibrary.withgoogle.com/products/flutter/repos/lkrjangid1-Awesome-Flutter-Templates'>![Awesome-Flutter-Templates](https://badgen.net/badge/Google/Dev%20Library/yellow)</a>
 
 A Collection of Flutter Application templates.
 
