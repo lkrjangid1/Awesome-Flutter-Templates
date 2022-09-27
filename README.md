@@ -20,9 +20,9 @@ A Collection of Flutter Application templates.
 
 
 # Pages
-- <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates'>Page1</a>
-- <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page2.md'>Page2</a>
-- <a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page3.md'>Page3</a>
+- <a href='https://lkrjangid1.github.io/Awesome-Flutter-Templates/'>Page1</a>
+- <a href='https://lkrjangid1.github.io/Awesome-Flutter-Templates/Page2.html'>Page2</a>
+- <a href='https://lkrjangid1.github.io/Awesome-Flutter-Templates/Page3.html'>Page3</a>
 
 <hr/>
 
@@ -216,4 +216,4 @@ Gojek UI Clone
 <img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/搜索关键字列表.PNG" width="414" hegiht="736" align=center />
 
 
-<a href='https://github.com/lkrjangid1/Awesome-Flutter-Templates/blob/main/Page2.md'>Go to Page2 --></a>
+<a href='./Page2.html'>Go to Page2 --></a>
