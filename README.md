@@ -49,8 +49,8 @@ A Collection of Flutter Application templates.
 ## <a href='https://github.com/robertodevs/flutter_ecommerce_template'>Shope - Free Flutter eCommerce Template</a>
 <img src='https://raw.githubusercontent.com/robertodevs/flutter_ecommerce_template/master/assets/promotional/Mockup%20Intro.png'>
 
-## <a href='https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI'>Fryo - Grocery Shopping App template kit</a>
-<img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/1.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/2.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/3.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/4.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/5.png" width="300"><img src="https://raw.githubusercontent.com/ahkohd/FlutterGrocery-ShoppingAppUI/master/screenshots/6.png" width="300">
+## <a href='https://github.com/SzilvasiPeter/grocery_shopping_template'>Fryo - Grocery Shopping App template kit</a>
+<img src="https://github.com/SzilvasiPeter/grocery_shopping_template/raw/main/screenshots/welcome_page.png" width="300"><img src="https://github.com/SzilvasiPeter/grocery_shopping_template/raw/main/screenshots/signup_page.png" width="300"><img src="https://github.com/SzilvasiPeter/grocery_shopping_template/raw/main/screenshots/signin_page.png" width="300"><img src="https://github.com/SzilvasiPeter/grocery_shopping_template/raw/main/screenshots/dashboard_page.png" width="300"><img src="https://github.com/SzilvasiPeter/grocery_shopping_template/raw/main/screenshots/product_page.png" width="300">
 
 ## <a href='https://github.com/urmilshroff/dashboard_reborn'>Dashboard Reborn✨</a>
 <img src="https://raw.githubusercontent.com/urmilshroff/dashboard_reborn/master/branding/gifs/1.gif" width="300"><img src="https://raw.githubusercontent.com/urmilshroff/dashboard_reborn/master/branding/gifs/2.gif" width="300">
